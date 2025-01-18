@@ -40,8 +40,8 @@ Na sentry lahko posiljamo tudi obvestila.
 <img width="1199" alt="image" src="https://github.com/user-attachments/assets/af8eb9ea-f878-425e-ae0d-4cc58e3e5a6b" />
 
 Vec informacji o napaki lahko izvevmo ob podrobne pogledu posamične napake.
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/d2193065-6337-420c-8d22-ccb08e619113" />
 
-<img width="1199" alt="image" src="https://github.com/user-attachments/assets/735488bf-af20-47eb-9883-1f1842db1356" />
 
 Dobimo tudi stack trace
 
